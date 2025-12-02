@@ -5,3 +5,6 @@ def load_data(filename):
         return data
 data=load_data("data.json")
 print(data)
+
+def display_user(data):
+    
